@@ -5,7 +5,7 @@
 ------------------------------------------------------------
 ## Study Guide
 
- - [ ] Basic IO
+ - [X] Basic IO
  - [ ] Basic Datatype
  - [ ] Loops and Condition Statements
  - [ ] Creating Functions 
